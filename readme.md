@@ -22,5 +22,3 @@
 
 1. Imagen o color de fondo de cada columna individual.
 2. Medias queries para que la página sea responsive.
-
-### Página de referencia completa: (https://chrisgomez423.github.io/ProfileCards/)
