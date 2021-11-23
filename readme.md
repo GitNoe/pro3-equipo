@@ -1,4 +1,4 @@
-# Pasos que se han seguido para construir esta págia web
+# Pasos que se han seguido para construir esta página web
 
 1. Wireframe de la estructura de los elementos html que se van a introducir.
 2. Elección de un tema/negocio sobre el que trate la página.
@@ -22,3 +22,7 @@
 
 1. Imagen o color de fondo de cada columna individual.
 2. Medias queries para que la página sea responsive.
+
+## Extra
+
+Para comprobar la accesibilidad del sitio web se ha utilizado la herramienta LightHouse disponible en Google Chrome, en la página generada por Github Pages. Se ha obtenido un 100% de Accesibilidad, lo cual es muy buen indicio para empezar, aunque esta página no es responsive ya que faltan las medias queries.
