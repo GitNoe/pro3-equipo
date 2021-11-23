@@ -26,3 +26,4 @@
 ## Extra
 
 Para comprobar la accesibilidad del sitio web se ha utilizado la herramienta LightHouse disponible en Google Chrome, en la página generada por Github Pages. Se ha obtenido un 100% de Accesibilidad, lo cual es muy buen indicio para empezar, aunque esta página no es responsive ya que faltan las medias queries.
+Al realizar el mismo proceso en Microsoft Edge y en Mozilla Firefox también se obtiene un 100%.
