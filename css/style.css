@@ -16,8 +16,7 @@
     text-shadow: 2px 2px 2px khaki;
     text-align: center;
     font-size: 4em;
-    font-family: 'Praise', cursive;
-    padding: 5px;
+    font-family:'Courier New', Courier, monospace;
 }
 /*tanto en header como columnas no pongo position para que no se pisen*/
 .columnas{
@@ -62,6 +61,7 @@ h3{
 p{
     font-family: 'Road Rage', cursive;
     padding: 10px;
+    font-size: 1.2em;
 }
 .click{
     background-color:khaki;
